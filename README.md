@@ -1,4 +1,4 @@
-<h1>Créer une application mobile Android qui permet de : </h1>
+<h1>Création d'une application mobile Android qui permet de : </h1>
 <ul>
   <li>Saisir une ville</li>
   <li>Afficher les prévisions météo de cette ville
